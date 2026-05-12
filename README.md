@@ -52,7 +52,7 @@ O SQL é escrito diretamente no repositório via Drizzle ORM — migrations vers
 | **Sprints** | Criação, ativação e conclusão de sprints por projeto; alternância no kanban |
 | **Integração GitHub** | Conectar repositório via OAuth, sincronizar PRs e issues, automação de status via webhook, status de CI/CD nos cards |
 | **IA — Geração de backlog** | Gerar tarefas, milestones e fases de roadmap a partir de uma descrição em texto livre |
-| **IA — Contexto do repositório** | Gerar backlog usando o contexto real do repositório GitHub conectado |
+| **IA — Contexto do repositório** | Gerar o projeto inteiro usando o contexto real do repositório GitHub conectado (aceita também um prompt adicional) |
 | **IA — Resumo de PR** | Resumo automático do pull request gerado por IA no detalhe da tarefa |
 | **IA — Previsão de sprints** | Estimativa de velocidade do time e previsão de conclusão de sprints |
 | **Membros e permissões** | 5 papéis (Owner, Admin, Lead, Developer, Viewer) com controle granular por ação |
